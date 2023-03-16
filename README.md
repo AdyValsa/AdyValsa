@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Adriano Valsangiacomo</h1>
 
-<h3 align="left">:computer: Fullstack developer </h3>
-<h3 align="left">:bike: Biker </h3>
-<h3 align="left">:camera: Photographer </h3>
-<h3 align="left">:family: Father  </h3>
+<h4 align="left">:computer: Fullstack developer </h4>
+<h4 align="left">:bike: Biker </h4>
+<h4 align="left">:camera: Photographer </h4>
+<h4 align="left">:family: Father  </h4>
 
 <h3 align="left">Languages and Tools:</h3>
 
